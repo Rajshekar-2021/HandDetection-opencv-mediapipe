@@ -2,9 +2,9 @@
 
 In order to use this code, we need to install opencv-python & mediapipe modules
 
-<bi>!pip install opencv-python</b>
+<b><i>!pip install opencv-python</b>
 
- <bi>!pip install mediapipe'''</b>
+ <b><i>!pip install mediapipe'''</b>
 
 This repository shows how to detect Hands using OpenCV and MediaPipe Solutions
 
