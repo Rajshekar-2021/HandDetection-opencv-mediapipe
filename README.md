@@ -1,4 +1,4 @@
-# HandDetection-opencv-mediapipe
+# Hand Detection & Tracking : Using opencv-mediapipe
 This repository shows how to detect Hands using OpenCV and MediaPipe Solutions
 
 The repository has 3 files :
