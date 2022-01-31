@@ -8,4 +8,7 @@ The repository has 3 files :
 2. HandTrackingModule.py : converts the above basic file into a module, so that this module can be used for further projects.
 
 3. Main.py : This is the final file which uses the above Module, and returns the output
+
+### The final output contains the list of ID, and their pixel locations, which can be used in future projects
     
+![image](https://user-images.githubusercontent.com/90382338/151773951-356d6adc-2dd5-4b4a-98e7-a6325eeb9b12.png)
