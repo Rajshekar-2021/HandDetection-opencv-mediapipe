@@ -1,4 +1,9 @@
 # Hand Detection & Tracking : Using opencv-mediapipe
+
+In order to use this code, we need to install opencv-python & mediapipe modules
+'!pip install opencv-python
+!pip install mediapipe'
+
 This repository shows how to detect Hands using OpenCV and MediaPipe Solutions
 
 The repository has 3 files :
