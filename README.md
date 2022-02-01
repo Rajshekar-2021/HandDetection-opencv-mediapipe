@@ -9,7 +9,7 @@ In order to use this code, we need to install opencv-python & mediapipe modules
 !pip install mediapipe
  ```
   
- ```bash
+
 
 This repository shows how to detect Hands using OpenCV and MediaPipe Solutions
 
@@ -22,7 +22,7 @@ The repository has 3 files :
 
 3. Main.py : This is the final file which uses the above Module, and returns the output
 ```
-```
+
 
 ### The final output contains the list of ID, and their pixel locations, which can be used in future projects
     
