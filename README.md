@@ -25,6 +25,6 @@ The repository has 3 files :
 
 ### The final output contains the list of ID, and their pixel locations, which can be used in future projects
     
-```bash
+
 ![image](https://user-images.githubusercontent.com/90382338/151774140-5cb155d9-d992-4d5c-8a01-b54f4a6aba8a.png)
-```
+
