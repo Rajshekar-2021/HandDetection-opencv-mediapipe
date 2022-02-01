@@ -4,9 +4,9 @@ In order to use this code, we need to install opencv-python & mediapipe modules
 
 ```bash
 
-<b><i>!pip install opencv-python</b>
+!pip install opencv-python
 
- <b><i>!pip install mediapipe'''</b></i>
+!pip install mediapipe
  ```
   
  ########################################################################################################
@@ -15,13 +15,16 @@ This repository shows how to detect Hands using OpenCV and MediaPipe Solutions
 
 The repository has 3 files :
 
+```bash
 1. HandTracking.py : is a basic file where the actual code is written using OpenCV & mediapipe.solutions.hands
 
 2. HandTrackingModule.py : converts the above basic file into a module, so that this module can be used for further projects.
 
 3. Main.py : This is the final file which uses the above Module, and returns the output
+```
 
 ### The final output contains the list of ID, and their pixel locations, which can be used in future projects
     
-
+```bash
 ![image](https://user-images.githubusercontent.com/90382338/151774140-5cb155d9-d992-4d5c-8a01-b54f4a6aba8a.png)
+```
